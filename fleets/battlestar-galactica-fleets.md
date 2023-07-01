@@ -1,6 +1,4 @@
----
-title: Battlestar Galactica Fleets
----
+# Battlestar Galactica Fleets
 
 The following ship setups can be used to represent ships from Battlestar Galactice. This is a fan creation and not an official Battlestar Galactica product.
 

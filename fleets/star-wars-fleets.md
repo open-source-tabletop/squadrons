@@ -1,8 +1,9 @@
----
-title: Star Wars Fleets
----
+# Star Wars Fleets
 
 The following ship setups can be used to represent ships from Star Wars. This is a fan creation and not an official Star Wars product.
+
+- [Galactic Empire Fleet](#galactic-empire-fleet)
+- [Rebel Alliance Fleet](#rebel-alliance-fleet)
 
 ## Galactic Empire Fleet
 
