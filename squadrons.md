@@ -117,20 +117,20 @@ Games are best played at 300 - 400 points. Larger games may require a larger bat
 
 \* This upgrade multiplies its cost by the number of upgrades the ship has, not including itself.
 
-| Weapon                    | Rng | Att | Dmg | Prc | Special Rules                   | Cost |
-| :------------------------ | :-: | :-: | :-: | :-: | :------------------------------ | :--: |
-| Energy Cannons            | 12" |  6  |  3  |  0  | Fixed                           | 2    |
-| Twin Energy Cannons       | 12" |  8  |  3  |  1  | Fixed                           | 4    |
-| Heavy Energy Cannons      | 16" |  6  |  5  |  1  | Fixed                           | 5    |
-| Disruptor Cannons         | 8"  |  6  |  4  |  2  | Disruptor                       | 3    |
-| Heavy Disruptor Cannons   | 12" |  8  |  5  |  2  | Disruptor                       | 4    |
-| Kinetic Cannons           | 12" |  6  |  3  |  1  | Fixed, Kinetic, Rapid Fire      | 3    |
-| Heavy Kinetic Cannons     | 16" |  8  |  4  |  2  | Fixed, Kinetic, Rapid Fire      | 6    |
-| Concussion Missiles       | 16" |  4  |  8  |  3  | Heavy, Arc (Front), Target Lock | 9    |
-| Heavy Concussion Missiles | 16" |  4  |  9  |  3  | Heavy, Arc (Front), Target Lock | 10   |
-| Unguided Bombs            | 6"  |  3  |  9  |  4  | Fixed, Heavy, Inaccurate        | 7    |
-| Heavy Energy Turret       | 16" |  4  |  5  |  1  |                                 | 9    |
-| Heavy Kinetic Turret      | 16" |  5  |  4  |  2  | Kinetic                         | 11   |
+| Weapon                    | Rng | Att | Dmg | Prc | Special Rules                             | Cost |
+| :------------------------ | :-: | :-: | :-: | :-: | :---------------------------------------- | :--: |
+| Energy Cannons            | 12" |  6  |  4  |  0  | Fixed                                     | 2    |
+| Twin Energy Cannons       | 12" |  8  |  4  |  0  | Fixed, Rending (1)                        | 4    |
+| Heavy Energy Cannons      | 16" |  6  |  5  |  1  | Fixed                                     | 5    |
+| Disruptor Cannons         | 8"  |  6  |  4  |  2  | Disruptor, Fixed                          | 3    |
+| Heavy Disruptor Cannons   | 8"  |  6  |  5  |  2  | Disruptor, Fixed                          | 4    |
+| Kinetic Cannons           | 12" |  6  |  4  |  1  | Fixed, Kinetic                            | 3    |
+| Heavy Kinetic Cannons     | 16" |  6  |  4  |  2  | Fixed, Kinetic, Shred                     | 6    |
+| Concussion Missiles       | 16" |  3  |  6  |  2  | Arc (Front), Destructive (2), Target Lock | 9    |
+| Heavy Concussion Missiles | 16" |  4  |  6  |  3  | Arc (Front), Destructive (2), Target Lock | 10   |
+| Unguided Bombs            | 6"  |  2  |  6  |  3  | Fixed, Destructive (2), Inaccurate        | 7    |
+| Heavy Energy Turret       | 16" |  4  |  5  |  1  |                                           | 9    |
+| Heavy Kinetic Turret      | 16" |  5  |  4  |  2  | Kinetic, Shred                            | 11   |
 
 
 
@@ -188,7 +188,9 @@ The following new special rules apply to units and weapons in Squadrons.
 
 | Rule | Details |
 | :--- | :------ |
+| Arc (X) | Attacks with this weapon can only target ships in the X Arc. |
 | Disruptor | Rolls to Counter Damage against this weapon do not gain the benefit of the Shields special rule. In addition, any ship that loses a Hit Point to an attack from this weapon also loses 1 Command Point. |
+| Fixed | Attacks with this weapon can only target ships that lie directly in the path of this ships forward facing. |
 | Target Lock | Roll a d6 before making any attack rolls with this weapon, on a 3+ this weapon can be used, on a 1 or 2 you may choose a different weapon for your attack but it must be against the same target. If you cannot make an attack with any other weapon you may not make an attack but still count as having taken an attack action. |
 | Kinetic | This weapon counts their Piercing attribute as -1 against a ship with Shields, while the effect of the shield is active. |
 
