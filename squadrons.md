@@ -18,9 +18,9 @@ Squadrons is best played on a **3ft x 3ft** or similar sized area and each game 
 
 #### Facing and Arcs
 
-Each ship in Squadrons has a forward-facing direction, typically the direction the miniature is facing. If this is not clear, you should agree with your opponent or mark a point on the ships's base. By extension, there is also an opposite backward-facing direction for the ship. Additionally, each ship divides the battlefield around it into four 90-degree zones, called arcs. The front arc is centered on the ships's forward-facing direction, the rear arc is aligned with the backward-facing direction, and the left and right side arcs are to the ships's left and right, respectively.
+Each ship in Squadrons has a forward-facing direction, typically the direction the miniature is facing. If this is not clear, you should agree with your opponent or mark a point on the ships's base. By extension, there is also an opposite backward-facing direction for the ship. Additionally, each ship divides the battlefield around it into four 90-degree zones, called arcs, centred on the centre of the ships base. The front arc is aligned to the ships's forward-facing direction, the rear arc is aligned with the backward-facing direction, and the left and right side arcs are to the ships's left and right, respectively.
 
-To determine which arc an enemy ship is in, it is considered to be in the front-most possible arc. If a ship is partially in more than one arc the front arc takes priority, followed by the side arcs, with the rear arc being the lowest priority. 
+To determine which arc an enemy ship is in, it is considered to be in the front-most possible arc. If a ship is partially in more than one arc then the front arc takes priority, followed by the side arcs, with the rear arc being the lowest priority. 
 
 #### Move Actions
 
