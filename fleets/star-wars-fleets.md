@@ -7,70 +7,82 @@ The following ship setups can be used to represent ships from Star Wars. This is
 
 ## Galactic Empire Fleet
 
-#### TIE Fighter - 20 points
+#### TIE Fighter - 23 points
 
 - **Setup**: Speed 1, Agility
 - **Weapons**: Energy Cannons
 
-#### TIE Interceptor - 40 points
+#### Elite TIE Fighter - 27 points
+
+- **Setup**: Speed 1, Skilled 2, Agility
+- **Weapons**: Energy Cannons
+
+#### TIE Interceptor - 45 points
 
 - **Setup**: Command 1, Speed 1, Agility, Boost
 - **Weapons**: Twin Energy Cannons
 
-#### TIE Bomber - 28 points
+#### Elite TIE Interceptor - 51 points
 
-- **Setup**: Hit Points 1
+- **Setup**: Command 1, Speed 1, Skilled 2, Agility, Boost
+- **Weapons**: Twin Energy Cannons
+
+#### TIE Bomber - 36 points
+
+- **Setup**: Tough 2, Hit Points 1
 - **Weapons**: Energy Cannons, Heavy Concussion Missiles
 
-#### TIE Silencer - 68 points
+#### TIE Silencer - 83 points
 
 - **Setup**: Command 1, Speed 1, Skilled 2, Hit Points 2, Agility, Shield
 - **Weapons**: Heavy Energy Cannons, Concussion Missiles
 
 ### Galactic Empire Summary
 
-| Ship              | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         |
-| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------- |
-| TIE Fighter       |  4  |  7" |  4+ |  4+ |  4  |  2  | Agile                 |
-| TIE Interceptor   |  5  |  7" |  4+ |  4+ |  4  |  2  | Agile, Boost          |
-| TIE Bomber        |  4  |  6" |  4+ |  4+ |  4  |  3  |                       |
-| TIE Silencer      |  5  |  7" |  3+ |  4+ |  4  |  4  | Agile, Shields        |
+| Ship                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         | Points |
+| :---------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------- | :----: |
+| TIE Fighter             |  4  |  7" |  4+ |  4+ |  4  |  2  | Agile                 | 23     |
+| Elite TIE Fighter       |  4  |  7" |  3+ |  4+ |  4  |  2  | Agile                 | 27     |
+| TIE Interceptor         |  5  |  7" |  4+ |  4+ |  4  |  2  | Agile, Boost          | 45     |
+| Elite TIE Interceptor   |  5  |  7" |  4+ |  4+ |  4  |  2  | Agile, Boost          | 51     |
+| TIE Bomber              |  4  |  6" |  4+ |  4+ |  5  |  3  |                       | 36     |
+| TIE Silencer            |  5  |  7" |  3+ |  4+ |  4  |  4  | Agile, Shields        | 83     |
 
 ---
 
 ## Rebel Alliance Fleet
 
-#### X-Wing Starfighter - 43 points
+#### X-Wing Starfighter - 50 points
 
 - **Setup**: Skilled 2, Hit Points 1, Shield
 - **Weapons**: Twin Energy Cannons, Concussion Missiles
 
-#### Y-Wing Bomber - 30 points
+#### Y-Wing Bomber - 35 points
 
 - **Setup**: Hit Points 1, Shield
 - **Weapons**: Energy Cannons, Heavy Concussion Missiles
 
-#### A-Wing Interceptor - 49 points
+#### A-Wing Interceptor - 59 points
 
 - **Setup**: Command 1, Skilled 2, Boost, Shield
 - **Weapons**: Energy Cannons, Concussion Missiles
 
-#### B-Wing Starfighter - 50 points
+#### B-Wing Starfighter - 58 points
 
 - **Setup**: Skilled 2, Tough 3, Hit Points 1, Shield
 - **Weapons**: Heavy Energy Cannons, Heavy Concussion Missiles
 
-#### U-Wing Support Craft - 52 points
+#### U-Wing Support Craft - 66 points
 
 - **Setup**: Command 1, Armour 1, Tough 2, Hit Points 1, Shield
 - **Weapons**: Heavy Energy Cannons, Disruptor Cannons
 
 ### Rebel Alliance Summary
 
-| Ship                 | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         |
-| :------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------- |
-| X-Wing Starfighter   |  4  |  6" |  3+ |  4+ |  4  |  3  | Shield                |
-| Y-Wing Bomber        |  4  |  6" |  4+ |  4+ |  4  |  3  | Shields               |
-| A-Wing Interceptor   |  5  |  6" |  3+ |  4+ |  4  |  2  | Boost, Shields        |
-| B-Wing Starfighter   |  4  |  6" |  3+ |  4+ |  6  |  3  | Shields               |
-| U-Wing Support Craft |  5  |  6" |  4+ |  3+ |  5  |  3  | Shields               |
+| Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         | Points |
+| :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------- | :----: |
+| X-Wing Starfighter        |  4  |  6" |  3+ |  4+ |  4  |  3  | Shield                | 50     |
+| Y-Wing Bomber             |  4  |  6" |  4+ |  4+ |  4  |  3  | Shields               | 35     |
+| A-Wing Interceptor        |  5  |  6" |  3+ |  4+ |  4  |  2  | Boost, Shields        | 59     |
+| B-Wing Starfighter        |  4  |  6" |  3+ |  4+ |  6  |  3  | Shields               | 58     |
+| U-Wing Support Craft      |  5  |  6" |  4+ |  3+ |  5  |  3  | Shields               | 66     |
