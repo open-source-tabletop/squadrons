@@ -16,12 +16,6 @@ Squadrons is best played on a **3ft x 3ft** or similar sized area and each game 
 
 ### Ship Movement
 
-#### Facing and Arcs
-
-Each ship in Squadrons has a forward-facing direction, typically the direction the miniature is facing. If this is not clear, you should agree with your opponent or mark a point on the ships's base. By extension, there is also an opposite backward-facing direction for the ship. Additionally, each ship divides the battlefield around it into four 90-degree zones, called arcs, centred on the centre of the ships base. The front arc is aligned to the ships's forward-facing direction, the rear arc is aligned with the backward-facing direction, and the left and right side arcs are to the ships's left and right, respectively.
-
-To determine which arc an enemy ship is in, it is considered to be in the front-most possible arc. If a ship is partially in more than one arc then the front arc takes priority, followed by the side arcs, with the rear arc being the lowest priority. 
-
 #### Move Actions
 
 Each time you activate one of your ships you must always take a Move action, though you may still choose when to perform this action. When you perform this action you must also move the maximum distance allowed and must moved in a straight line directly forward. When making a Move action you may add 1 pivot of up to 45 degrees at any point during your movement.
@@ -188,9 +182,7 @@ The following new special rules apply to units and weapons in Squadrons.
 
 | Rule | Details |
 | :--- | :------ |
-| Arc (X) | Attacks with this weapon can only target ships in the X Arc. |
 | Disruptor | Rolls to Counter Damage against this weapon do not gain the benefit of the Shields special rule. In addition, any ship that loses a Hit Point to an attack from this weapon also loses 1 Command Point. |
-| Fixed | Attacks with this weapon can only target ships that lie directly in the path of this ships forward facing. |
 | Target Lock | Roll a d6 before making any attack rolls with this weapon, on a 3+ this weapon can be used, on a 1 or 2 you may choose a different weapon for your attack but it must be against the same target. If you cannot make an attack with any other weapon you may not make an attack but still count as having taken an attack action. |
 | Kinetic | This weapon counts their Piercing attribute as -1 against a ship with Shields, while the effect of the shield is active. |
 
