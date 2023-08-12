@@ -26,7 +26,7 @@ The following ship setups can be used to represent ships from Battlestar Galacti
 
 | Ship               | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules               |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------------- |
-| Mk II Viper        |  4  |  8" |  3+ |  3+ |  5  |  2  | Agile                       |
-| Raptor             |  4  |  6" |  4+ |  3+ |  5  |  4  | Countermeasures, Signal Jam |
-| Cylon Raider       |  4  |  8" |  4+ |  3+ |  4  |  2  | Agile, Signal Jam           |
-| Cylon Heavy Raider |  4  |  6" |  4+ |  2+ |  5  |  4  |                             |
+| Mk II Viper        |  4  |  8" |  3+ |  3+ |  5  |  4  | Agile                       |
+| Raptor             |  4  |  6" |  4+ |  3+ |  5  |  6  | Countermeasures, Signal Jam |
+| Cylon Raider       |  4  |  8" |  4+ |  3+ |  4  |  4  | Agile, Signal Jam           |
+| Cylon Heavy Raider |  4  |  6" |  4+ |  2+ |  5  |  6  |                             |
