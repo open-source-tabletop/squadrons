@@ -41,12 +41,12 @@ The following ship setups can be used to represent ships from Star Wars. This is
 
 | Ship                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         | Points |
 | :---------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------- | :----: |
-| TIE Fighter             |  4  |  7" |  4+ |  4+ |  4  |  2  | Agile                 | 23     |
-| Elite TIE Fighter       |  4  |  7" |  3+ |  4+ |  4  |  2  | Agile                 | 27     |
-| TIE Interceptor         |  5  |  7" |  4+ |  4+ |  4  |  2  | Agile, Boost          | 45     |
-| Elite TIE Interceptor   |  5  |  7" |  4+ |  4+ |  4  |  2  | Agile, Boost          | 51     |
-| TIE Bomber              |  4  |  6" |  4+ |  4+ |  5  |  3  |                       | 36     |
-| TIE Silencer            |  5  |  7" |  3+ |  4+ |  4  |  4  | Agile, Shields        | 83     |
+| TIE Fighter             |  4  |  7" |  4+ |  4+ |  4  |  4  | Agile                 | 23     |
+| Elite TIE Fighter       |  4  |  7" |  3+ |  4+ |  4  |  4  | Agile                 | 27     |
+| TIE Interceptor         |  5  |  7" |  4+ |  4+ |  4  |  4  | Agile, Boost          | 45     |
+| Elite TIE Interceptor   |  5  |  7" |  4+ |  4+ |  4  |  4  | Agile, Boost          | 51     |
+| TIE Bomber              |  4  |  6" |  4+ |  4+ |  5  |  5  |                       | 36     |
+| TIE Silencer            |  5  |  7" |  3+ |  4+ |  4  |  6  | Agile, Shields        | 83     |
 
 ---
 
@@ -81,8 +81,8 @@ The following ship setups can be used to represent ships from Star Wars. This is
 
 | Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         | Points |
 | :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------- | :----: |
-| X-Wing Starfighter        |  4  |  6" |  3+ |  4+ |  4  |  3  | Shield                | 50     |
-| Y-Wing Bomber             |  4  |  6" |  4+ |  4+ |  4  |  3  | Shields               | 35     |
-| A-Wing Interceptor        |  5  |  6" |  3+ |  4+ |  4  |  2  | Boost, Shields        | 59     |
-| B-Wing Starfighter        |  4  |  6" |  3+ |  4+ |  6  |  3  | Shields               | 58     |
-| U-Wing Support Craft      |  5  |  6" |  4+ |  3+ |  5  |  3  | Shields               | 66     |
+| X-Wing Starfighter        |  4  |  6" |  3+ |  4+ |  4  |  5  | Shield                | 50     |
+| Y-Wing Bomber             |  4  |  6" |  4+ |  4+ |  4  |  5  | Shields               | 35     |
+| A-Wing Interceptor        |  5  |  6" |  3+ |  4+ |  4  |  4  | Boost, Shields        | 59     |
+| B-Wing Starfighter        |  4  |  6" |  3+ |  4+ |  6  |  5  | Shields               | 58     |
+| U-Wing Support Craft      |  5  |  6" |  4+ |  3+ |  5  |  5  | Shields               | 66     |
