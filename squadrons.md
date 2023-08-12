@@ -161,7 +161,6 @@ The following new special rules apply to units and weapons in Squadrons.
 
 | Rule | Details |
 | :--- | :------ |
-| Agile | This ship may make an additional 45 degree turn during a Move Action. |
 | Boost | If this ship makes a Move and Advance action and does not pivot it may add up to 3 inches to it's movement. |
 | Countermeasures | Once per game this ship may evade an attack without spending a Command Point. |
 | Squadron Leader | Friendly ships within 6 inches of this ship do not have to roll to see if they lose a Command Point when activating with just 1. This ship also gains +1 to it's Command attribute on the first round, up to a maximum of 6. |
