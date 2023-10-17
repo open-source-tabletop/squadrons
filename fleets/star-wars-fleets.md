@@ -44,7 +44,7 @@ The following ship setups can be used to represent ships from Star Wars. This is
 | TIE Fighter             |  4  |  7" |  4+ |  4+ |  4  |  4  | Agile                 | 23     |
 | Elite TIE Fighter       |  4  |  7" |  3+ |  4+ |  4  |  4  | Agile                 | 27     |
 | TIE Interceptor         |  5  |  7" |  4+ |  4+ |  4  |  4  | Agile, Boost          | 45     |
-| Elite TIE Interceptor   |  5  |  7" |  4+ |  4+ |  4  |  4  | Agile, Boost          | 51     |
+| Elite TIE Interceptor   |  5  |  7" |  3+ |  4+ |  4  |  4  | Agile, Boost          | 51     |
 | TIE Bomber              |  4  |  6" |  4+ |  4+ |  5  |  5  |                       | 36     |
 | TIE Silencer            |  5  |  7" |  3+ |  4+ |  4  |  6  | Agile, Shields        | 83     |
 
