@@ -12,17 +12,30 @@ Straight forward powerful ships, high cost
 | :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------- |
 | Strike Fighter            |  3  |  6" |  3+ |  3+ |  5  |  4  |                       |
 
+Heavy Machine Gun and Rockets
+Or plasma cannons
+Countermeasures 
+
 ### Heavy Gunship
 
 | Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         |
 | :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------- |
 | Heavy Gunship             |  3  |  5" |  3+ |  3+ |  5  |  5  |                       |
 
+Heavy Machine Gun turret
+Heavy Cannon or Fusion beam
+Missiles
+platform
+
 ### Precision Bomber
 
 | Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         |
 | :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------- |
 | Precision Bomber          |  3  |  4" |  3+ |  3+ |  6  |  5  |                       |
+
+Machine gun turret
+Fusion Bombs
+Countermeasures 
 
 ## Corsairs
 
