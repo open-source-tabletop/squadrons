@@ -20,12 +20,20 @@ Fractured Skies is a custom fleet list for the game Squadrons. It provides multi
 
 ## Marauders
 
-### Harrier
+### Fighters
 
-### Vulture
+### Bombers
 
 ## The Endless
 
 ### Eviscerator
 
+### Drone Swarm
+
 ### Pillar of Judgement
+
+## The Swarm
+
+## Ripper Clade
+
+## Harbinger Clade
