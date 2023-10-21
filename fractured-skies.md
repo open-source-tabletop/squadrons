@@ -2,7 +2,7 @@
 
 Fractured Skies is a custom fleet list for the game Squadrons. It provides multiple aircraft profiles for the various factions found in the game Fracture. These ships do not use the ship building rules found in Squadrons and are not designed to be used alongside them.
 
-## Sentinel Fkeets
+## Sentinel Fleets
 
 Straight forward powerful ships, high cost 
 
@@ -12,9 +12,7 @@ Straight forward powerful ships, high cost
 | :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------- |
 | Strike Fighter            |  3  |  6" |  3+ |  3+ |  5  |  4  |                       |
 
-Heavy Machine Gun and Rockets
-Or plasma cannons
-Countermeasures 
+A Strike Fighter is armed with a Heavy Machine Gun and may add either Rockets or Plasma Cannons.
 
 ### Heavy Gunship
 
@@ -118,3 +116,10 @@ melee and limited shooting but in the sky?
 | Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         |
 | :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------- |
 | Harbinger Clade           |  4  |  4" |  3+ |  4+ |  5  |  4  |                       |
+
+
+| Weapon                    | Rng | Att | Dmg | Prc | Special Rules                     |
+| :------------------------ | :-: | :-: | :-: | :-: | :-------------------------------- |
+| Heavy Machine Gun         |     |     |     |     |                                   |
+| Rockets                   |     |     |     |     |                                   |
+| Plasma Cannons            |     |     |     |     |                                   |
