@@ -4,6 +4,8 @@ Fractured Skies is a custom fleet list for the game Squadrons. It provides multi
 
 ## Sentinel Fkeets
 
+Straight forward powerful ships, high cost 
+
 ### Strike Fighter
 
 ### Heavy Gunship
@@ -11,6 +13,8 @@ Fractured Skies is a custom fleet list for the game Squadrons. It provides multi
 ### Precision Bomber
 
 ## Corsairs
+
+Fast ships, deadly but harder to use 
 
 ### Phantom Interceptor
 
@@ -20,11 +24,15 @@ Fractured Skies is a custom fleet list for the game Squadrons. It provides multi
 
 ## Marauders
 
+lots of bad ships 
+
 ### Fighters
 
 ### Bombers
 
 ## The Endless
+
+unusual ships weird tech
 
 ### Eviscerator
 
@@ -33,6 +41,8 @@ Fractured Skies is a custom fleet list for the game Squadrons. It provides multi
 ### Pillar of Judgement
 
 ## The Swarm
+
+melee and limited shooting but in the sky?
 
 ## Ripper Clade
 
