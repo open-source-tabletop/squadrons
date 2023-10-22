@@ -12,7 +12,7 @@ Much like their ground forces, Sentinel ships are tough and well armed, with eli
 | :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------- |
 | Strike Fighter            |  3  |  6" |  3+ |  3+ |  4  |  4  |                       |
 
-- You may include any number of Strike Fightera in your Squadron.
+- You may include any number of Strike Fighters in your squadron.
 - A Strike Fighter is armed with a Heavy Machine Gun and may add either Rockets or Plasma Cannons.
 - A Strike Fighter may take the Countermeasures or Targeting System upgrade.
 
@@ -22,7 +22,7 @@ Much like their ground forces, Sentinel ships are tough and well armed, with eli
 | :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------- |
 | Heavy Gunship             |  3  |  5" |  3+ |  3+ |  5  |  5  | Platform (1)          |
 
-- You may include 1 Heavy Gunship for every Strike Fighter in your Squadron.
+- You may include 1 Heavy Gunship for every Strike Fighter in your squadron.
 - A Heavy Gunship is equipped with a Heavy Machine Gun Turret and may either add a Heavy Cannon or Fusion Beam.
 - A Heavy Gunship may take Concussion Missiles.
 - A Heavy Gunship may take the Countermeasures or Targeting System upgrade.
@@ -33,8 +33,8 @@ Much like their ground forces, Sentinel ships are tough and well armed, with eli
 | :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------------------------- |
 | Valkyrie Bomber           |  3  |  4" |  3+ |  3+ |  5  |  6  | Heavy Armour (1), Platform (1), Countermeasures |
 
-- You may include 1 Valkyrie Bomber for every other ship in your squadron.
-- A Valkyrie Bomber is equipped with a Twin Machine Gunbomberss and a Heavy Machine Gun.
+- You may include 1 Valkyrie Bomber for every strike fighter in your squadron.
+- A Valkyrie Bomber is equipped with a Twin Machine Guns and a Heavy Machine Gun.
 - A Valkyrie Bomber must take either Fusion Bombs or an Eradicator Lance.
 - A Valkyrie Bomber may take the Shields upgrade.
 
