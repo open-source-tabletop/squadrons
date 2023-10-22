@@ -27,9 +27,9 @@ Fractured Skies is a custom fleet list for the game Squadrons. It provides multi
 
 ### Valkyrie Bomber
 
-| Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                                  |
-| :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------------------------------- |
-| Valkyrie Bomber           |  3  |  4" |  3+ |  3+ |  5  | 6  | Heavy Armour (1), Platform (1), Countermeasures |
+| Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                                   |
+| :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------------------------- |
+| Valkyrie Bomber           |  3  |  4" |  3+ |  3+ |  5  |  6  | Heavy Armour (1), Platform (1), Countermeasures |
 
 - You may include 1 Valkyrie Bomber for every other ship in your squadron.
 - A Valkyrie Bomber is equipped with a Twin Machine Gun Turret and a Heavy Machine Gun.
