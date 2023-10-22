@@ -4,7 +4,7 @@ Fractured Skies is a custom fleet list for the game Squadrons. It provides multi
 
 ## Sentinel Fleets
 
-Much like their ground forces, SentineS ships are tough and well armed with elite battle-hardened pilots. Even their smallest strike fighters are able to threaten the larger ships of enemy fleets while few can match the firepower of a their heavy bombers.
+Much like their ground forces, Sentinel ships are tough and well armed, with elite battle-hardened pilots. Even their smallest strike fighters are able to threaten the larger ships of enemy fleets while few can match the firepower of their heavy bombers.
 
 ### Strike Fighter
 
