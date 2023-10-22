@@ -4,6 +4,8 @@ Fractured Skies is a custom fleet list for the game Squadrons. It provides multi
 
 ## Sentinel Fleets
 
+Much like their ground forces, SentineS ships are tough and well armed with elite battle-hardened pilots. Even their smallest strike fighters are able to threaten the larger ships of enemy fleets while few can match the firepower of a their heavy bombers.
+
 ### Strike Fighter
 
 | Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         |
@@ -32,7 +34,7 @@ Fractured Skies is a custom fleet list for the game Squadrons. It provides multi
 | Valkyrie Bomber           |  3  |  4" |  3+ |  3+ |  5  |  6  | Heavy Armour (1), Platform (1), Countermeasures |
 
 - You may include 1 Valkyrie Bomber for every other ship in your squadron.
-- A Valkyrie Bomber is equipped with a Twin Machine Gun Turret and a Heavy Machine Gun.
+- A Valkyrie Bomber is equipped with a Twin Machine Gunbomberss and a Heavy Machine Gun.
 - A Valkyrie Bomber must take either Fusion Bombs or an Eradicator Lance.
 - A Valkyrie Bomber may take the Shields upgrade.
 
