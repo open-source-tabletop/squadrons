@@ -8,7 +8,7 @@ Fractured Skies is a custom fleet list for the game Squadrons. It provides multi
 
 | Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         |
 | :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------- |
-| Strike Fighter            |  3  |  6" |  3+ |  3+ |  5  |  4  |                       |
+| Strike Fighter            |  3  |  6" |  3+ |  3+ |  4  |  4  |                       |
 
 - You may include any number of Strike Fightera in your Squadron.
 - A Strike Fighter is armed with a Heavy Machine Gun and may add either Rockets or Plasma Cannons.
