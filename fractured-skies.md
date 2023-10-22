@@ -4,36 +4,37 @@ Fractured Skies is a custom fleet list for the game Squadrons. It provides multi
 
 ## Sentinel Fleets
 
-Straight forward powerful ships, high cost 
-
 ### Strike Fighter
 
 | Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         |
 | :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------- |
 | Strike Fighter            |  3  |  6" |  3+ |  3+ |  5  |  4  |                       |
 
-A Strike Fighter is armed with a Heavy Machine Gun and may add either Rockets or Plasma Cannons.
+- You may include any number of Strike Fightera in your Squadron.
+- A Strike Fighter is armed with a Heavy Machine Gun and may add either Rockets or Plasma Cannons.
+- A Strike Fighter may take the Countermeasures or Targeting System upgrade.
 
 ### Heavy Gunship
 
 | Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         |
 | :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------- |
-| Heavy Gunship             |  3  |  5" |  3+ |  3+ |  5  |  5  |                       |
+| Heavy Gunship             |  3  |  5" |  3+ |  3+ |  5  |  5  | Platform (1)          |
 
-Heavy Machine Gun turret
-Heavy Cannon or Fusion beam
-Missiles
-platform
+- You may include 1 Heavy Gunship for every Strike Fighter in your Squadron.
+- A Heavy Gunship is equipped with a Heavy Machine Gun Turret and may either add a Heavy Cannon or Fusion Beam.
+- A Heavy Gunship may take Concussion Missiles.
+- A Heavy Gunship may take the Countermeasures or Targeting System upgrade.
 
-### Precision Bomber
+### Valkyrie Bomber
 
-| Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         |
-| :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------- |
-| Precision Bomber          |  3  |  4" |  3+ |  3+ |  6  |  5  |                       |
+| Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                                   |
+| :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------------------------- |
+| Valkyrie Bomber           |  3  |  4" |  3+ |  3+ |  5  | 6  | Heavy Armour (1), Platform (1), Countermeasures |
 
-Machine gun turret
-Fusion Bombs
-Countermeasures 
+- You may include 1 Valkyrie Bomber for every other ship in your squadron.
+- A Valkyrie Bomber is equipped with a Twin Machine Gun Turret and a Heavy Machine Gun.
+- A Valkyrie Bomber must take either Fusion Bombs or an Eradicator Lance.
+- A Valkyrie Bomber may take the Shields upgrade.
 
 ## Corsairs
 
@@ -121,5 +122,12 @@ melee and limited shooting but in the sky?
 | Weapon                    | Rng | Att | Dmg | Prc | Special Rules                     |
 | :------------------------ | :-: | :-: | :-: | :-: | :-------------------------------- |
 | Heavy Machine Gun         |     |     |     |     |                                   |
+| Heavy Machine Gun Turret  |     |     |     |     |                                   |
+| Heavy Cannon              |     |     |     |     |                                   |
+| Fusion Beam               |     |     |     |     |                                   |
 | Rockets                   |     |     |     |     |                                   |
+| Twin Machine Gun Turret   |     |     |     |     |                                   |
+| Eradicator Lance          |     |     |     |     |                                   |
+| Fusion Bombs              |     |     |     |     |                                   |
+| Concussion Missiles       |     |     |     |     |                                   |
 | Plasma Cannons            |     |     |     |     |                                   |
