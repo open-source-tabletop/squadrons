@@ -97,7 +97,7 @@ Games are best played at 300 - 400 points. Larger games may require a larger bat
 | Stealth 2       | The ship has the Stealth (9) special rule     | 9    |
 | Jamming         | The ship has the Signal Jam special rule      | 5    |
 | Countermeasures | The ship has the Countermeasures special rule | 2    |
-| Weapon Platform | The ship has the Weapon Platform special rule | 9    |
+| Weapon Platform | The ship has the Platform (1) special rule    | 9    |
 
 \* This upgrade multiplies its cost by the number of upgrades the ship has, not including itself.
 
@@ -165,7 +165,6 @@ The following new special rules apply to units and weapons in Squadrons.
 | Countermeasures | Once per game this ship may evade an attack without spending a Command Point. |
 | Squadron Leader | Friendly ships within 6 inches of this ship do not have to roll to see if they lose a Command Point when activating with just 1. This ship also gains +1 to it's Command attribute on the first round, up to a maximum of 6. |
 | Signal Jam | Target Lock rolls against this ship only succeed on a 5+. |
-| Weapon Platform | This ship may make a second attack action during it's activation. |
 
 #### Weapon Special Rules
 

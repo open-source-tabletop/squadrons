@@ -8,9 +8,9 @@ Much like their ground forces, Sentinel ships are tough and well armed, with eli
 
 ### Strike Fighter
 
-| Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         |
-| :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------- |
-| Strike Fighter            |  3  |  6" |  3+ |  3+ |  4  |  4  |                       |
+| Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                                   |
+| :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------------------------- |
+| Strike Fighter            |  3  |  6" |  3+ |  3+ |  4  |  4  |                                                 |
 
 - You may include any number of Strike Fighters in your squadron.
 - A Strike Fighter is armed with a Heavy Machine Gun and may add either Rockets or Plasma Cannons.
@@ -18,9 +18,9 @@ Much like their ground forces, Sentinel ships are tough and well armed, with eli
 
 ### Heavy Gunship
 
-| Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         |
-| :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------- |
-| Heavy Gunship             |  3  |  5" |  3+ |  3+ |  5  |  5  | Platform (1)          |
+| Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                                   |
+| :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------------------------- |
+| Heavy Gunship             |  3  |  5" |  3+ |  3+ |  5  |  5  | Heavy Armor (1), Platform (1)                   |
 
 - You may include 1 Heavy Gunship for every Strike Fighter in your squadron.
 - A Heavy Gunship is equipped with a Heavy Machine Gun Turret and may either add a Heavy Cannon or Fusion Beam.
@@ -31,7 +31,7 @@ Much like their ground forces, Sentinel ships are tough and well armed, with eli
 
 | Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                                   |
 | :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------------------------- |
-| Valkyrie Bomber           |  3  |  4" |  3+ |  3+ |  5  |  6  | Heavy Armour (1), Platform (1), Countermeasures |
+| Valkyrie Bomber           |  3  |  4" |  3+ |  3+ |  5  |  5  | Heavy Armour (2), Platform (1), Countermeasures |
 
 - You may include 1 Valkyrie Bomber for every strike fighter in your squadron.
 - A Valkyrie Bomber is equipped with a Twin Machine Guns and a Heavy Machine Gun.
@@ -42,23 +42,23 @@ Much like their ground forces, Sentinel ships are tough and well armed, with eli
 
 Fast ships, deadly but harder to use 
 
-### Phantom Interceptor
+### Eclipse Interceptor
 
-| Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         |
-| :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------- |
-| Phantom Interceptor       |  3  |  7" |  4+ |  5+ |  4  |  3  | Agile, Boost, Shields |
+| Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                                   |
+| :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------------------------- |
+| Eclipse Interceptor       |  3  |  7" |  4+ |  5+ |  4  |  3  | Agile, Boost, Shields, Signal Jam               |
 
-### Wraith Destroyer
+### Nova Destroyer
 
-| Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         |
-| :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------- |
-| Wraith Destroyer          |  3  |  6" |  4+ |  5+ |  4  |  4  | Agile, Shields |
+| Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                                   |
+| :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------------------------- |
+| Nova Destroyer            |  3  |  6" |  4+ |  5+ |  4  |  4  | Agile, Shields, Signal Jam                      |
 
-### Revenant Light Bomber
+### Nebula Light Bomber
 
-| Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         |
-| :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------- |
-| Revenant Light Bomber     |  3  |  6" |  4+ |  5+ |  4  |  3  | Shields               |
+| Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                                   |
+| :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------------------------- |
+| Nebula Light Bomber       |  3  |  6" |  4+ |  5+ |  4  |  3  | Shields, Signal Jam                             |
 
 ## Marauders
 
