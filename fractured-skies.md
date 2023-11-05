@@ -8,35 +8,36 @@ Much like their ground forces, Sentinel ships are tough and well armed, with eli
 
 ### Strike Fighter
 
-| Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                                   |
-| :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------------------------- |
-| Strike Fighter            |  3  |  6" |  3+ |  3+ |  4  |  4  |                                                 |
+| Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                                   | Points |
+| :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------------------------- | :----: |
+| Strike Fighter            |  5  |  4" |  3+ |  3+ |  4  |  4  |                                                 | 35     |
 
 - You may include any number of Strike Fighters in your squadron.
-- A Strike Fighter is armed with a Heavy Machine Gun and may add either Rockets or Plasma Cannons.
+- A Strike Fighter is armed with a Heavy Machine Gun.
+- A Strike Fighter may add Rocket Pods or Plasma Cannons.
 - A Strike Fighter may take the Countermeasures or Targeting System upgrade.
 
 ### Heavy Gunship
 
 | Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                                   |
 | :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------------------------- |
-| Heavy Gunship             |  3  |  5" |  3+ |  3+ |  5  |  5  | Heavy Armor (1), Platform (1)                   |
+| Heavy Gunship             |  4  |  4" |  3+ |  3+ |  5  |  5  | Heavy Armor (1), Platform (1)                   |
 
 - You may include 1 Heavy Gunship for every Strike Fighter in your squadron.
-- A Heavy Gunship is equipped with a Heavy Machine Gun Turret and may either add a Heavy Cannon or Fusion Beam.
-- A Heavy Gunship may take Concussion Missiles.
+- A Heavy Gunship is equipped with a Heavy Machine Gun Turret.
+- A Heavy Gunship may add a Heavy Cannon or Fusion Beam.
 - A Heavy Gunship may take the Countermeasures or Targeting System upgrade.
 
-### Valkyrie Bomber
+### Destroyer
 
 | Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                                   |
 | :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------------------------- |
-| Valkyrie Bomber           |  3  |  4" |  3+ |  3+ |  5  |  5  | Heavy Armour (2), Platform (1), Countermeasures |
+| Destroyer                 |  4  |  4" |  3+ |  3+ |  5  |  6  | Heavy Armour (1), Platform (1)                  |
 
-- You may include 1 Valkyrie Bomber for every strike fighter in your squadron.
-- A Valkyrie Bomber is equipped with a Twin Machine Guns and a Heavy Machine Gun.
-- A Valkyrie Bomber must take either Fusion Bombs or an Eradicator Lance.
-- A Valkyrie Bomber may take the Shields upgrade.
+- You may include 1 Destroyer for every Strike Fighter in your squadron.
+- A Destroyer is equipped with a Heavy Machine Gun Turret.
+- A Destroyer must take either Fusion Bombs or an Eradicator Lance.
+- A Destroyer may take the Shields, Countermeasures, or Targeting System upgrade.
 
 ## Corsairs
 
@@ -46,19 +47,19 @@ Fast ships, deadly but harder to use
 
 | Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                                   |
 | :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------------------------- |
-| Eclipse Interceptor       |  3  |  7" |  4+ |  5+ |  4  |  3  | Agile, Boost, Shields, Signal Jam               |
+| Eclipse Interceptor       |  6  |  5" |  4+ |  5+ |  3  |  3  | Agile, Boost, Shields, Signal Jam               |
 
 ### Nova Destroyer
 
 | Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                                   |
 | :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------------------------- |
-| Nova Destroyer            |  3  |  6" |  4+ |  5+ |  4  |  4  | Agile, Shields, Signal Jam                      |
+| Nova Destroyer            |  5  |  5" |  4+ |  5+ |  4  |  4  | Agile, Shields, Signal Jam                      |
 
 ### Nebula Light Bomber
 
 | Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                                   |
 | :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------------------------- |
-| Nebula Light Bomber       |  3  |  6" |  4+ |  5+ |  4  |  3  | Shields, Signal Jam                             |
+| Nebula Light Bomber       |  5  |  4" |  4+ |  5+ |  4  |  3  | Shields, Signal Jam                             |
 
 ## Marauders
 
@@ -123,11 +124,11 @@ melee and limited shooting but in the sky?
 
 | Weapon                    | Rng | Att | Dmg | Prc | Special Rules                     |
 | :------------------------ | :-: | :-: | :-: | :-: | :-------------------------------- |
-| Heavy Machine Gun         |     |     |     |     |                                   |
-| Heavy Machine Gun Turret  |     |     |     |     |                                   |
+| Heavy Machine Gun         | 12" |     |     |     |                                   |
+| Heavy Machine Gun Turret  | 9"  |     |     |     |                                   |
 | Heavy Cannon              |     |     |     |     |                                   |
 | Fusion Beam               |     |     |     |     |                                   |
-| Rockets                   |     |     |     |     |                                   |
+| Rocket Pods               |     |     |     |     |                                   |
 | Twin Machine Gun Turret   |     |     |     |     |                                   |
 | Eradicator Lance          |     |     |     |     |                                   |
 | Fusion Bombs              |     |     |     |     |                                   |
