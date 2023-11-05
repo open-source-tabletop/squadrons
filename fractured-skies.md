@@ -124,10 +124,10 @@ melee and limited shooting but in the sky?
 
 | Weapon                    | Rng | Att | Dmg | Prc | Special Rules                     |
 | :------------------------ | :-: | :-: | :-: | :-: | :-------------------------------- |
-| Heavy Machine Gun         | 12" |     |     |     |                                   |
-| Heavy Machine Gun Turret  | 9"  |     |     |     |                                   |
-| Heavy Cannon              |     |     |     |     |                                   |
-| Fusion Beam               |     |     |     |     |                                   |
+| Heavy Machine Gun         | 12" |  5  |  3  |  0  | Fixed                             |
+| Heavy Machine Gun Turret  | 9"  |  4  |  3  |  0  |                                   |
+| Heavy Cannon              | 16” |  2  |  4  |  1  |                                   |
+| Fusion Beam               | 6"  |  3  |  6  |  2  |                                   |
 | Rocket Pods               |     |     |     |     |                                   |
 | Twin Machine Gun Turret   |     |     |     |     |                                   |
 | Eradicator Lance          |     |     |     |     |                                   |
