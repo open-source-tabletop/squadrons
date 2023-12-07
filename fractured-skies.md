@@ -1,5 +1,9 @@
 # Fractured Skies
 
+!!! warning
+
+    This fleet list is still in development.
+
 Fractured Skies is a custom fleet list for the game Squadrons. It provides multiple aircraft profiles for the various factions found in the game Fracture. These ships do not use the ship building rules found in Squadrons and are not designed to be used alongside them.
 
 ## Sentinel Fleets
