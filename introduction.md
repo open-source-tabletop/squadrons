@@ -9,3 +9,7 @@ Each model in Squadrons represents a single ship of fighter or bomber scale refe
 ### License
 
 Squadrons, like the core Cadence rules, is licensed under a [Creative Commons by Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/). This license means the text of the rules are free, anyone can duplicate them, modify them, use them for any purpose (even commercial) so long as attribution to the original project is given. This does not extend to the fleet lists which are ships made using the ship building rules to represent those from popular films and media. These are fan creations for personal use which are unlicensed.
+
+---
+
+Contribute to the development of Squadrons [on Github](https://github.com/open-source-tabletop/squadrons).
