@@ -11,5 +11,5 @@ Contribute to the development of Squadrons [on Github](https://github.com/open-s
 - [Building a Squadron](building-a-squadron.md)  
 - [Star Wars Fleets](fleets/star-wars-fleets.md)  
 - [Battlestar Galactica Fleets](fleets/battlestar-galactica-fleets.md)  
-- [Fractured Skies](fractured-skies.md)  
+- [Fractured Skies](fleets/fractured-skies.md)  
 - [Missions](missions.md)
